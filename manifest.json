@@ -1,0 +1,7 @@
+{
+  "name": "Gol Bolivia",
+  "short_name": "GolBolivia",
+  "start_url": "/",
+  "display": "standalone",
+  "gcm_sender_id": "482941778795"
+}
